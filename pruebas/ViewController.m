@@ -26,6 +26,7 @@
 - (IBAction)alertVwBotton:(id)sender {
     
     printf("Pulso");
+    printf("Modificacion de rama 1º cambio");
 }
 
 @end
