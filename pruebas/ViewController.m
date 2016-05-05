@@ -34,6 +34,7 @@
     printf("Mergeadas rama1 y rama2");
     
     printf("Mensaje desde rama 2 ya mergeada con la 1");
+    printf("Cambio en rama1 por 1ºCambio");
 }
 
 @end
