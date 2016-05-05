@@ -25,6 +25,7 @@
 }
 - (IBAction)alertVwBotton:(id)sender {
     
+    printf("Añadido por el Master");
     printf("Pulso");
 }
 
