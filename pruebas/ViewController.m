@@ -27,6 +27,7 @@
     
     printf("Pulso");
     printf("Modificacion de rama 1º cambio");
+    printf("Cambio en rama1 por 1ºCambio");
 }
 
 @end
