@@ -37,6 +37,7 @@
     printf("Mensaje desde rama 2 ya mergeada con la 1");
     printf("Cambio en rama1 por 1ºCambio");
     printf("Añado desde el Master (1)");
+    printf("Último cambio");
 }
 
 @end
