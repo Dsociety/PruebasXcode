@@ -27,6 +27,7 @@
     
     printf("Rama 2ºCambio");
     
+    printf("Añadido por el Master");
     printf("Pulso");
     
     printf("Modificacion de rama 1º cambio");
@@ -35,6 +36,7 @@
     
     printf("Mensaje desde rama 2 ya mergeada con la 1");
     printf("Cambio en rama1 por 1ºCambio");
+    printf("Añado desde el Master (1)");
 }
 
 @end
