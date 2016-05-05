@@ -25,7 +25,8 @@
 }
 - (IBAction)alertVwBotton:(id)sender {
     
-    printf("Pulso");
+    printf("Rama 2ºCambio");
+    
 }
 
 @end
