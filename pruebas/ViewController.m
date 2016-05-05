@@ -27,6 +27,8 @@
     
     printf("Añadido por el Master");
     printf("Pulso");
+    
+    printf("Añado desde el Master (1)");
 }
 
 @end
