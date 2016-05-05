@@ -27,6 +27,10 @@
     
     printf("Rama 2ºCambio");
     
+    printf("Pulso");
+    printf("Modificacion de rama 1º cambio");
+    
+    printf("Mergeadas rama1 y rama2");
 }
 
 @end
